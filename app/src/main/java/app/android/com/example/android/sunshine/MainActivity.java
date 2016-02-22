@@ -18,14 +18,14 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//added code
+/*//added code
         setContentView(R.layout.activity_main);
         String currentDateTimeString = DateFormat.getDateTimeInstance().format(new Date());
         TextView textView = (TextView)findViewById(R.id.currentDate);
 
         textView.setText("Today, " + currentDateTimeString);
-//Added code
-        //setContentView(R.layout.activity_main);
+//Added code*/
+        setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
