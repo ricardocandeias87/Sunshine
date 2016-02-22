@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="maxTemperature">Max: 21º</string>
+    <string name="minTemperature">Max: 3º</string>
+    <string name="weatherCondition">weatherCondition</string>
+</resources>
